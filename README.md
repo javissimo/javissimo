@@ -6,7 +6,9 @@
 
 ### Connect with me:
 
-[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://linkedin.com/in/javierpm)
+<a href="https://linkedin.com/in/javierpm">
+<img align="left" alt="C sharp" width="26px" style="padding-right: 10px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)" />
+</a>
 
 ### Languages and Tools:
 
