@@ -6,8 +6,7 @@
 
 ### Connect with me:
 
-[![website](./img/instagram-light.svg)](https://instagram.com/javissimo#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/javissimo#gh-dark-mode-only)
+[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://linkedin.com/in/javierpm)
 
 ### Languages and Tools:
 
