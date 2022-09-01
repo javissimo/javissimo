@@ -12,7 +12,6 @@
 </a>
 </div>
 
-
 ### Languages and Tools:
 
 <img align="left" alt="C sharp" width="26px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -24,9 +23,7 @@
 <img align="left" alt="Tailwindcss" width="26px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 <img align="left" alt="Git" width="26px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-          
 ---
-
 
 [![Top Langs](https://github-readme-stats-javissimo.vercel.app/api/top-langs/?username=javissimo&theme=tokyonight&count_private=true&show_icons=true&layout=compact)](https://github.com/javissimo/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats-javissimo.vercel.app/api?username=javissimo&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/javissimo/github-readme-stats)
