@@ -11,6 +11,8 @@
 
 ### Languages and Tools:
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+          
 ---
 
 [![Top Langs](https://github-readme-stats-javissimo.vercel.app/api/top-langs/?username=javissimo&theme=tokyonight&count_private=true&show_icons=true&layout=compact)](https://github.com/javissimo/github-readme-stats)
