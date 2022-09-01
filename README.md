@@ -31,7 +31,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats-javissimo.vercel.app/api/top-langs/?username=javissimo&theme=dark &show_icons=true&layout=compact)](https://github.com/javissimo/github-readme-stats)
+[![Top Langs](https://github-readme-stats-javissimo.vercel.app/api/top-langs/?username=javissimo&theme=dark&show_icons=true&layout=compact)](https://github.com/javissimo/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats-javissimo.vercel.app/api?username=javissimo&show_icons=true&theme=dark )](https://github.com/javissimo/github-readme-stats)
 
 <!--
