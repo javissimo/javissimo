@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats-javissimo.vercel.app/api/top-langs/?username=javissimo&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/javissimo/github-readme-stats)
+[![Top Langs](https://github-readme-stats-javissimo.vercel.app/api/top-langs/?username=javissimo&theme=tokyonight&count_private=true&show_icons=true&layout=compact)](https://github.com/javissimo/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats-javissimo.vercel.app/api?username=javissimo&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/javissimo/github-readme-stats)
 
 <!--
