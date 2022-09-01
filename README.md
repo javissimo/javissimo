@@ -32,7 +32,7 @@
 ---
 
 [![Top Langs](https://github-readme-stats-javissimo.vercel.app/api/top-langs/?username=javissimo&theme=dark&show_icons=true&layout=compact)](https://github.com/javissimo/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats-javissimo.vercel.app/api?username=javissimo&show_icons=true&theme=dark )](https://github.com/javissimo/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats-javissimo.vercel.app/api?username=javissimo&show_icons=true&theme=dark&count_private=true)](https://github.com/javissimo/github-readme-stats)
 
 <!--
 **javissimo/javissimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
