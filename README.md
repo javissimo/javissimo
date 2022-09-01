@@ -7,7 +7,7 @@
 ### Connect with me:
 
 <div>
-<a target="_blank" href="https://linkedin.com/in/javierpm">
+<a href="https://linkedin.com/in/javierpm" target="_blank">
 <img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 </div>
